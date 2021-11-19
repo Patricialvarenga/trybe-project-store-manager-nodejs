@@ -1,0 +1,8 @@
+{
+  "ok": 200,
+  "created":201,
+  "notFound": 404,
+  "notAcceptable": 406,
+  "unprocessableEntity": 422,
+  "notImplemented": 501
+}
